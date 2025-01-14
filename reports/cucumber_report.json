@@ -1,0 +1,499 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "to-test-home-page-functionality2;to-test-home-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "To test home page",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 2897080000
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVG8gdGVzdCBob21lIHBhZ2UgLS0tLS0tLS0tLS0gc3RhcnRlZA==",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "User is on home page",
+            "match": {
+              "location": "e2etests\\tests\\steps\\loginpage.spec.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 599455699
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVXNlciBpcyBvbiBob21lIHBhZ2UgLS0tLS0tLS0tLS1pcyBzdGFydGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "dGhpcyBpcyBzdGFydCBpZiB1c2VyaXMgb24gbG9naW5nIHBhZ2Ugc3RlcC4uLi4uLi4uLiE=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9naW4gaXMgc3VjY2Vzc2Z1bC4uLi4uLi4uLg==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tVXNlciBpcyBvbiBob21lIHBhZ2UgLS0tLS0tLS0tLS0gaXMgZW5kZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "User enter login details",
+            "match": {
+              "location": "e2etests\\tests\\steps\\loginpage.spec.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1503184799
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVXNlciBlbnRlciBsb2dpbiBkZXRhaWxzIC0tLS0tLS0tLS0taXMgc3RhcnRlZA==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "ZW50ZXJlZCB2YWx1ZSBvbGEub2xhZGltZWppODAzQGdtYWlsLmNvbSBvbiBFbWFpbGZpZWxk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "ZW50ZXJlZCB2YWx1ZSBvbGEub2xhZGltZWppODAzQGdtYWlsLmNvbSBvbiBQYXN3d29yZCBmaWVsZCA=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "Y2xpY2tlZCBvbiBMb2dpbiBidXR0b24g",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9naW4gaXMgc3VjY2Vzc2Z1bC4uLi4uLi4uLg==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tVXNlciBlbnRlciBsb2dpbiBkZXRhaWxzIC0tLS0tLS0tLS0tIGlzIGVuZGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "Home page should be displayed",
+            "match": {
+              "location": "e2etests\\tests\\steps\\homepage.spec.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 864513298
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tSG9tZSBwYWdlIHNob3VsZCBiZSBkaXNwbGF5ZWQgLS0tLS0tLS0tLS1pcyBzdGFydGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9nb3V0IGlzIGRvbmUuLi4uLi4uLi4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tSG9tZSBwYWdlIHNob3VsZCBiZSBkaXNwbGF5ZWQgLS0tLS0tLS0tLS0gaXMgZW5kZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Upon logout",
+            "match": {
+              "location": "e2etests\\tests\\steps\\homepage.spec.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1839579798
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVXBvbiBsb2dvdXQgLS0tLS0tLS0tLS1pcyBzdGFydGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "Y2xpY2tlZCBvbiBMb2dvdXQgYnV0dG9u",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "Y2xpY2tlZCBvbiB1bmRlZmluZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9nb3V0IGlzIGRvbmUuLi4uLi4uLi4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tVXBvbiBsb2dvdXQgLS0tLS0tLS0tLS0gaXMgZW5kZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Logout should be successful",
+            "match": {
+              "location": "e2etests\\tests\\steps\\loginpage.spec.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1812698
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tTG9nb3V0IHNob3VsZCBiZSBzdWNjZXNzZnVsIC0tLS0tLS0tLS0taXMgc3RhcnRlZA==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9naW4gaXMgc3VjY2Vzc2Z1bC4uLi4uLi4uLg==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tTG9nb3V0IHNob3VsZCBiZSBzdWNjZXNzZnVsIC0tLS0tLS0tLS0tIGlzIGVuZGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 71924399
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVG8gdGVzdCBob21lIHBhZ2UgaXMgZW5kZWQtLS0tLS0=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "to-test-home-page-functionality2",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "to test home page functionality2",
+    "tags": [],
+    "uri": "e2etests\\tests\\features\\homepage.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "to-test-home-page-functionality;to-test-home-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "To test home page",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 3019055099
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVG8gdGVzdCBob21lIHBhZ2UgLS0tLS0tLS0tLS0gc3RhcnRlZA==",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "User is on home page",
+            "match": {
+              "location": "e2etests\\tests\\steps\\loginpage.spec.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 604349698
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVXNlciBpcyBvbiBob21lIHBhZ2UgLS0tLS0tLS0tLS1pcyBzdGFydGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "dGhpcyBpcyBzdGFydCBpZiB1c2VyaXMgb24gbG9naW5nIHBhZ2Ugc3RlcC4uLi4uLi4uLiE=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9naW4gaXMgc3VjY2Vzc2Z1bC4uLi4uLi4uLg==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tVXNlciBpcyBvbiBob21lIHBhZ2UgLS0tLS0tLS0tLS0gaXMgZW5kZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "User enter login details",
+            "match": {
+              "location": "e2etests\\tests\\steps\\loginpage.spec.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1461879398
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVXNlciBlbnRlciBsb2dpbiBkZXRhaWxzIC0tLS0tLS0tLS0taXMgc3RhcnRlZA==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "ZW50ZXJlZCB2YWx1ZSBvbGEub2xhZGltZWppODAzQGdtYWlsLmNvbSBvbiBFbWFpbGZpZWxk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "ZW50ZXJlZCB2YWx1ZSBvbGEub2xhZGltZWppODAzQGdtYWlsLmNvbSBvbiBQYXN3d29yZCBmaWVsZCA=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "Y2xpY2tlZCBvbiBMb2dpbiBidXR0b24g",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9naW4gaXMgc3VjY2Vzc2Z1bC4uLi4uLi4uLg==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tVXNlciBlbnRlciBsb2dpbiBkZXRhaWxzIC0tLS0tLS0tLS0tIGlzIGVuZGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "Home page should be displayed",
+            "match": {
+              "location": "e2etests\\tests\\steps\\homepage.spec.ts:9"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 881956197
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tSG9tZSBwYWdlIHNob3VsZCBiZSBkaXNwbGF5ZWQgLS0tLS0tLS0tLS1pcyBzdGFydGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9nb3V0IGlzIGRvbmUuLi4uLi4uLi4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tSG9tZSBwYWdlIHNob3VsZCBiZSBkaXNwbGF5ZWQgLS0tLS0tLS0tLS0gaXMgZW5kZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Upon logout",
+            "match": {
+              "location": "e2etests\\tests\\steps\\homepage.spec.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1743634200
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVXBvbiBsb2dvdXQgLS0tLS0tLS0tLS1pcyBzdGFydGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "Y2xpY2tlZCBvbiBMb2dvdXQgYnV0dG9u",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "Y2xpY2tlZCBvbiB1bmRlZmluZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9nb3V0IGlzIGRvbmUuLi4uLi4uLi4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tVXBvbiBsb2dvdXQgLS0tLS0tLS0tLS0gaXMgZW5kZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Logout should be successful",
+            "match": {
+              "location": "e2etests\\tests\\steps\\loginpage.spec.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 980798
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tTG9nb3V0IHNob3VsZCBiZSBzdWNjZXNzZnVsIC0tLS0tLS0tLS0taXMgc3RhcnRlZA==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9naW4gaXMgc3VjY2Vzc2Z1bC4uLi4uLi4uLg==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tTG9nb3V0IHNob3VsZCBiZSBzdWNjZXNzZnVsIC0tLS0tLS0tLS0tIGlzIGVuZGVk",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "This is a dummy step to fail",
+            "match": {
+              "location": "e2etests\\tests\\steps\\loginpage.spec.ts:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 519797
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVGhpcyBpcyBhIGR1bW15IHN0ZXAgdG8gZmFpbCAtLS0tLS0tLS0tLWlzIHN0YXJ0ZWQ=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "bG9naW4gaXMgc3VjY2Vzc2Z1bC4uLi4uLi4uLg==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "LS0tLS0tLS0tVGhpcyBpcyBhIGR1bW15IHN0ZXAgdG8gZmFpbCAtLS0tLS0tLS0tLSBpcyBlbmRlZA==",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 89345499
+            },
+            "embeddings": [
+              {
+                "data": "LS0tLS0tLS0tVG8gdGVzdCBob21lIHBhZ2UgaXMgZW5kZWQtLS0tLS0=",
+                "mime_type": "text/x.cucumber.log+plain"
+              },
+              {
+                "data": "U0NFTkFSSU8gU1RBVFVTIElTID4+Pj4+Pj4+Pj4gUEFTU0VEID4+Pj4+Pj4=",
+                "mime_type": "text/x.cucumber.log+plain"
+              }
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "to-test-home-page-functionality",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "to test home page functionality",
+    "tags": [],
+    "uri": "e2etests\\tests\\features\\loginpage.feature"
+  }
+]

@@ -1,0 +1,9 @@
+{
+    "editInfoLink":{
+        "locator": "xpath=//a[contains(.,'Edit your account information')]",
+        "actionOptions": { 
+            "timeout": 5000
+        }
+    }
+   
+}
