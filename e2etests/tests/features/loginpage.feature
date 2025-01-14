@@ -15,3 +15,5 @@ Feature: to test home page functionality
     And Upon logout
     Then Logout should be successful
     And This is a dummy step to fail
+
+    #And This is a dummy step to fail
