@@ -13,3 +13,6 @@ Feature: to test home page functionality2
     And Home page should be displayed
     And Upon logout
     Then Logout should be successful
+
+    #And Upon logout
+    #Then Logout should be successful

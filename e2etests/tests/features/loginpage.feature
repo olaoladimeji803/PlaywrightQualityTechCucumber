@@ -17,3 +17,4 @@ Feature: to test home page functionality
     And This is a dummy step to fail
 
     #And This is a dummy step to fail
+     #And This is a dummy step to fail
