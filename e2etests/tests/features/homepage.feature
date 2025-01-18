@@ -23,6 +23,4 @@ Feature: to test home page functionality2
 
     #And Upon logout
     #Then Logout should be successful
-    #And Upon logout
-    #Then Logout should be successful
-    
+  
